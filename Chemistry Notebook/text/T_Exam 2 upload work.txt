@@ -1,0 +1,79 @@
+Exam 2 upload work
+    Question (1.)
+        a) MnS2 = Manganese (IV) Sulfide
+
+        b) Na2SO3 = Sodium Sulfite
+
+        c) CrO3 = Chromium (VI) oxide or trioxide
+
+        d) Ca(CN)2 = Calcium (II) Cyanide
+
+    Question (2.)
+        4 K(s) + O2(g)  →  2 K2O
+        a) If 0.650g of potassium is reacted with 
+        excess oxygen, what is the theoretical yield of potassium oxide?
+        b) if the actual yield is 0.611g, what is the percent yield? 
+
+        0.650g K * ( 1 mol K / 39.098) * ( 2 mol H2O / 4 mol K) * (94.195 g K2O / 1 molK2O) = 0.7829g K2O Theoretical yield
+        (0.7829/0.611) * 100 = 128.13 % yield
+    
+    Question (7.)
+        a) potassium phosphate = K3PO4
+
+        b) Iron (I) oxide = Fe2O
+
+        c) aluminum chloride = AlCl
+
+        d) copper (III) nitrite = Cu(NO3)3
+    
+    Question (8.)
+        Ionic compound: ["Al: ['26.982']"]
+        Atomic Mass: 26.982
+        Coefficient:    1
+        Atomic Mass with Coefficients:  26.982
+        Mol:     4.11
+        Grams of substance:      110.89602000000001
+    ----Molecules:      2.475042e+24
+        
+    Question (9.)
+        2 Li (s) + Cu(NO3)2(aq) → 2 LiNO3(aq) + Cu(s)
+
+        How many grams of Li (s) are needed to react 
+        with 26.5 g of Cu(NO3)2 according to the reaction above?
+
+        Show all work with units including work for molar mass on your paper.  
+
+        Enter the number of grams in the box below.
+        
+        26.5 g Cu(NO3)2 * (1 mol Cu(NO3)2 / 187.5539 g Cu(NO3)2) 
+        * ( 2 mol Li / 1 mol Cu(NO3)2) * ( 6.941 g Li / 1 mol Li)
+        =
+        1.961425488886128
+
+        Ionic compound: ["Cu: ['63.546']", "N: ['14.007']", "N: ['14.007']", "O: ['15.999']", 
+        "O: ['15.999']", "O: ['15.999']", "O: ['15.999']", "O: ['15.999']", "O: ['15.999']"]
+        Atomic Mass: 187.55399999999997
+        Coefficient:    1
+        Atomic Mass with Coefficients:  187.55399999999997
+        Grams of substance:     26.5
+        Moles per grams:        0.14129264105271017
+        Mol:     0.14129264105271017
+        Grams of substance:      26.5
+        Molecules:      8.508642844194206e+22
+
+        Ionic compound: ["Li: ['6.941']"]
+        Atomic Mass: 6.941
+        Coefficient:    2
+        Atomic Mass with Coefficients:  13.882
+        Mol:     0.14129264105271017
+        Grams of substance:      0.9807122215468612 * 2
+        Molecules:      8.508642844194206e+22
+
+        26.5/187.5539
+            0.141292716387129
+        0.141292716387129*2
+        0   .282585432774258
+        0.282585432774258*6.941
+            1.96142548888612
+    
+    
